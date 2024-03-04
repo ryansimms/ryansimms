@@ -1,3 +1,11 @@
 {
-  "this_is_a": "test"
+  "this_is_a": "test",
+  "another_key": {
+    "value": "91okZxJXR8stVznb/7D9Rw==",
+    "encrypted_with_secret_key": true
+  },
+  "so_open": {
+    "value": "don't mind the world knowing this...",
+    "encrypted_with_secret_key": false
+  }
 }
