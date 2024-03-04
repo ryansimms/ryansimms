@@ -7,5 +7,6 @@
   "so_open": {
     "value": "don't mind the world knowing this...",
     "encrypted_with_secret_key": false
-  }
+  },
+  "or_maybe_just_a": "string if not encrypted..."
 }
